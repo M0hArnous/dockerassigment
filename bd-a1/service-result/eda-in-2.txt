@@ -1,0 +1,26 @@
+Unique Countries: 186
+Unique Regions: 5
+Unique Web Names: 186
+
+Top 10 Countries:
+Country Name
+Afghanistan    1
+Oman           1
+Mozambique     1
+Namibia        1
+Nepal          1
+Netherlands    1
+New Zealand    1
+Nicaragua      1
+Niger          1
+Nigeria        1
+Name: count, dtype: int64
+
+Top 10 Regions:
+Region
+Sub-Saharan Africa              48
+Europe                          45
+Asia-Pacific                    43
+Americas                        32
+Middle East and North Africa    18
+Name: count, dtype: int64
